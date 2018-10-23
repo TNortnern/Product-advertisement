@@ -1,0 +1,98 @@
+*{
+    margin:0;
+}
+header
+{
+    text-align:center;
+    background-color:#6f7877;
+    border-bottom: black 10px solid;
+    font-family: 'Bowlby One SC', cursive;
+    padding-bottom:25px;
+}
+nav
+{
+	background-color:rgb(255, 163, 26);
+	color: black;
+}
+
+a
+{
+	color:black;
+	font-weight:bold;
+}
+
+
+p
+{
+    font-size:1.4em;
+    font-family: 'Gravitas One', cursive;
+    font-weight: bold;
+}
+.reSize
+{
+    width:250px;
+    height:250px;
+
+}
+
+.2605
+{
+  color:green;
+}
+.pText
+{
+    font-size:1.05em;
+    font-family: 'Gravitas One', cursive;
+    font-weight: bold;
+}
+
+#container
+{
+  background-color:#6f7877;
+
+  position: relative;
+}
+
+.sectionHead
+{
+    background-color:black;
+    color:#6f7877;
+    font-size:1.3em;
+    text-align: center;
+
+}
+
+.blackBord
+{
+	border: 10px black double;
+}
+
+
+.commonImg
+{
+    width:200px;
+    height:200px;
+    padding-right: 50px;
+}
+
+.centerT
+{
+	text-align:center;
+}
+footer
+{
+   text-align:center;
+   font-family: 'Bowlby One SC', cursive;
+}
+
+#inline
+{
+	display: inline-block;
+}
+
+.microwaveImg
+{
+    float:left;
+    width:150px;
+    margin-right:15px;
+}
